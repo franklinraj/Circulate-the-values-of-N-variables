@@ -1,4 +1,3 @@
-![circulate](https://github.com/franklinraj/Circulate-the-values-of-N-variables/assets/148993740/b69502a4-09fc-4a08-ae71-01ee9914b2c5)# Circulate-the-values-of-N-variables
 ## Aim:
 To write a python program to circulate the n variables using function concept
 ## Equipment’s required:
