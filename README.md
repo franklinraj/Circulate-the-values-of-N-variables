@@ -1,4 +1,4 @@
-# Circulate-the-values-of-N-variables
+![circulate](https://github.com/franklinraj/Circulate-the-values-of-N-variables/assets/148993740/b69502a4-09fc-4a08-ae71-01ee9914b2c5)# Circulate-the-values-of-N-variables
 ## Aim:
 To write a python program to circulate the n variables using function concept
 ## Equipment’s required:
@@ -29,11 +29,9 @@ def circulate():
     l=l[n: ]+l[ :n]
     print("After circulating the values are:",l)
  ```     
-         
-          
+                 
 ## Output:!
-[Uploading circulate.png…]()
-
+![circulate](https://github.com/franklinraj/Circulate-the-values-of-N-variables/assets/148993740/1bd31c2b-f100-4904-a2ab-61691b405a77)
 
 ## Result:
 Thus the python program for Circulate the values of a variables is executed successfully.
