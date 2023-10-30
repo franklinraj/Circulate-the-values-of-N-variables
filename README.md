@@ -32,6 +32,6 @@ def circulate():
          
           
 ## Output:
-!["Output"](/circulate.png)
+/home/sec/Pictures/Screenshots/circulate.png
 ## Result:
 Thus the python program for Circulate the values of a variables is executed successfully.
